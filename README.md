@@ -78,10 +78,13 @@ jupyter notebook trees_and_boosting.ipynb
 
 
 ## 📊 Evaluation Summary
-Model	        Accuracy (Test Set)
-Decision Tree	79%
-Random Forest	83%
-AdaBoost	    85%
+
+| Model         | Accuracy (Test Set) |
+|-------------- |---------------------|
+| Decision Tree | 79%                 |
+| Random Forest | 83%                 |
+| AdaBoost      | 85%                 |
+
 
 ✅ AdaBoost achieved the highest accuracy on the Titanic dataset.
 
